@@ -15,8 +15,8 @@ O banco de dados foi estruturado separando responsabilidades entre tabelas Mestr
 
 ## 📊 Diagrama de Entidade-Relacionamento (ERD)
 
-![Diagrama do Banco de Dados](database/diagrama.png) 
-*(Nota: Certifique-se de salvar a imagem que geramos no dbdiagram.io com o nome `diagrama.png` dentro da pasta `database` para que ela apareça aqui!)*
+<img width="1480" height="1326" alt="Diagrama-DB-Boletim" src="https://github.com/user-attachments/assets/43d768ab-d53f-4b70-9a29-5697b18d741d" />
+
 
 ## 📁 Estrutura do Repositório
 
